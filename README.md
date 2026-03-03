@@ -1,6 +1,6 @@
 # Bike-Sales-Data-Analysis
 Bike Sales Data Analysis using Excel and Power BI with an interactive dashboard and business insights
-## Project Overview
+### Project Overview
 Analyzed bike sales dataset to identify customer purchasing patterns based on demographic and income factors. Performed data cleaning and transformation using Excel and Power Query. Developed an interactive Power BI dashboard using DAX measures, drill-down hierarchy, bookmarks, tooltips, slicers, and page navigation to generate business insights and improve decision-making.
 ## Tools Used:
 Microsoft Excel
